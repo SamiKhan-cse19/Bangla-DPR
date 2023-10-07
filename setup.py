@@ -42,4 +42,5 @@ setup(
         "soundfile",
         "editdistance",
     ],
+    py_modules=[],
 )
